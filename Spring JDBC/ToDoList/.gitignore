@@ -37,6 +37,18 @@ build/
 ### Mac OS ###
 .DS_Store
 
+
 # Ignore IntelliJ project files
 .idea/
 *.iml
+
+# Maven target folder
+/target/
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
